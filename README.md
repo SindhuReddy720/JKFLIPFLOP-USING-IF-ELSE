@@ -2,7 +2,7 @@
 ### Reg no: 24006305
 
 
-# JKFLIPFLOP USING IF ELSE
+# JKFLIPFLOP
 
 **AIM:** 
 
