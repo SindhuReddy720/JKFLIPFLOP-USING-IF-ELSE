@@ -2,7 +2,7 @@
 ### Reg no: 24006305
 
 
-# JKFLIPFLOP
+# JKFLIPFLOP USING VERILOG HDL
 
 **AIM:** 
 
